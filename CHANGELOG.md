@@ -17,4 +17,4 @@ Este es el CHANGELOG, aqui estan los cambios mas recientes o correciones hecho e
 
 ## Fecha
 
-* **YYYY-MM-DD**
+* **2026-04-07**
