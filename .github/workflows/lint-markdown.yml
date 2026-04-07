@@ -10,7 +10,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: "Run Markdownlint"
         uses: actions/checkout@v4
 
       - name: Run Markdownlint
